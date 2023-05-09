@@ -1,5 +1,7 @@
 <div align="center">
-Hello there, I'm Artur!
+  <font size="10">  
+    Hello there, I'm Artur!
+  </font>
 </div>
 <!--
 Here are some ideas to get you started:
