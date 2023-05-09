@@ -1,5 +1,5 @@
 <div align="center">
-# Hello there, I'm Artur!
+### Hello there, I'm Artur!
 </div>
 <!--
 Here are some ideas to get you started:
