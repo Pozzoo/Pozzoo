@@ -1,9 +1,19 @@
 
 # Hello there, I'm Artur!
 
-## About me: 
+### About me:
 I'm currently studying CS at Intituto Federal de Santa Catarina. </br>
 I love learning new stuff, especially tech related!!
+
+
+### Stats:
+<div>
+    <a href="https://github.com/Pozzoo">
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pozzoo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> </br>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pozzoo&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+
+
 
 ### Learning:
 <div alling="center">
