@@ -23,7 +23,7 @@ I love learning new stuff, especially tech related!!
 
 ### Tools:
 <div allign="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="85" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="85" />
    <img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="Intellij Logo" width="82" height="90"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="85" />
 </div>
