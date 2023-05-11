@@ -1,5 +1,5 @@
 
-# Hello there, I'm Artur!
+# Hello there, I'm Artur! <img src="https://media.tenor.com/JW0XaqKXJfsAAAAi/cat-pixelated.gif" width="50" height="50"/>
 
 ### About me:
 I'm currently studying CS at Intituto Federal de Santa Catarina. </br>
