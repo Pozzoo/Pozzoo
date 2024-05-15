@@ -33,3 +33,6 @@ I love learning new stuff, especially tech related!!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="85"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="85" />
 </div>
+
+## Support me:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5Y5PCO)
