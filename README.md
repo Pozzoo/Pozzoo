@@ -49,7 +49,7 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-1A73E8?style=flat&logo=linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-1A73E8?style=flat&logo=cachyos&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 
 **Tools**
@@ -60,6 +60,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=white)
+![STM32 Suite](https://img.shields.io/badge/STM32_Suite-FFD200?style=flat&logo=stmicroelectronics&logoColor=white)
 
 ---
 
@@ -77,7 +78,7 @@
 
 <!-- 💡 TIP: Add your LinkedIn, email or any other contact you're comfortable sharing -->
 - 💼 LinkedIn: [arturpozzo](https://www.linkedin.com/in/arturpozzoo/)
-- 📧 Email: devpozzoo@gmail.com
+- 📧 Email: contact@pozzoo.dev
 
 ---
 
