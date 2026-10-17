@@ -1,6 +1,6 @@
 # Hey, I'm Artur! <img src="https://media.tenor.com/JW0XaqKXJfsAAAAi/cat-pixelated.gif" width="40"/>
 
-🎓 Computer Science student at **IFSC** and Master's in IoT at **IPBeja**  
+🎓 Computer Science student at **IFSC** 🇧🇷 and Master's in IoT at **UPBeja** 🇵🇹  
 💻 Passionate about building things, breaking things, and understanding how they work  
 📜 Currently deepening my skills in **TypeScript**, **Java**, and **C++**  
 👯 Certified open-source lover, and searching projects to collab on  
