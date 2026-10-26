@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at **IFSC** 🇧🇷 and Master's in IoT at **UPBeja** 🇵🇹  
 💻 Passionate about building things, breaking things, and understanding how they work  
-📜 Currently deepening my skills in **TypeScript**, **Java**, and **C++**  
+📜 Currently doing some IoT stuff and a File Manager :P  
 👯 Certified open-source lover, and searching projects to collab on  
 
 ---
